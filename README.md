@@ -1,5 +1,7 @@
 Battle type card game on the theme of the Saint Seiya manga.
 
+http://emmanuel.marcerou.free.fr/Saint-Seiya/
+
 BUG:
 - Impossible to record the player's time for the moment due to a restriction from the host.
 - The 'Medusa' card does not work.
