@@ -1,0 +1,10 @@
+.Copyrights {  font-family: Geneva, Arial, Helvetica, san-serif; font-size: 9px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none}
+.Menu {  font-family: Geneva, Arial, Helvetica, san-serif; font-size: 14px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #FFFFFF; text-decoration: none}
+.Rubrique {  font-family: "Courier New", Courier, mono; font-size: 18px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #000000; text-decoration: none}
+.Texte {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none}
+A {text-decoration:none;}
+A:hover {text-decoration:underline;}
+.Tableau {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none; border: 1px #000000 dashed}
+.Texte_Gras { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #000000; text-decoration: none }
+.BR {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none}
+.Description { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #000000; text-decoration: none }
